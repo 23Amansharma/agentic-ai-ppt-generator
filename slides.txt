@@ -13,7 +13,7 @@ Slide 3:
  - Problem Statement Our Agentic Solution System Architecture Pilot Results & Impact Next Steps
 
 Slide 4:
- - Problem — Urban Traffic Crisis
+ - Problem: Urban Traffic Crisis
  - Reactive control causes long average response time (22 min) Satellite blind spots cause high downtime (68%) during monsoon Existing systems lack scalable, real-time adaptation
 
 Slide 5:
@@ -34,5 +34,4 @@ Slide 8:
 
 Slide 9:
  - Contact
- - Alok Gupta — alok@example.com Aman Sharma — aman@example.com Project repo and demo available upon request
 
