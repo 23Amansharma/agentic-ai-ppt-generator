@@ -1,0 +1,38 @@
+File: Agentic_AI_Traffic_Management_Hackathon_2025.pptx
+Slides: 9
+
+Slide 1:
+ - AGENTIC AI FOR INTELLIGENT TRAFFIC MANAGEMENT
+ - Satellite-Driven Congestion Control with Autonomous AgentsTeam: Alok Gupta, Aman Sharma | Google Agentic AI Hackathon 2025
+
+Slide 2:
+ - Agenda
+
+Slide 3:
+ - Agenda
+ - Problem Statement Our Agentic Solution System Architecture Pilot Results & Impact Next Steps
+
+Slide 4:
+ - Problem — Urban Traffic Crisis
+ - Reactive control causes long average response time (22 min) Satellite blind spots cause high downtime (68%) during monsoon Existing systems lack scalable, real-time adaptation
+
+Slide 5:
+ - Agentic Solution Overview
+ - Distributed autonomous agents coordinating via satellite telemetry Real-time local decision-making to reroute traffic and deploy resources Resilient to partial data loss using local sensing and agent negotiation
+
+Slide 6:
+ - System Architecture
+ - Satellite data ingestion → Agent mesh network → Local actuators Fallback: edge inference using onboard cameras and sensors Cloud orchestration for policy updates and analytics
+
+Slide 7:
+ - Pilot Results & Impact
+ - Simulated reduction in average response time from 22 → 6 minutes Estimated 35% reduction in congestion during peak hours Improved reliability under partial satellite outages
+
+Slide 8:
+ - Next Steps & Ask
+ - Pilot deployment in a busy urban corridor Partnerships with city traffic authorities and satellite providers Funding & compute resources for a 6-month field trial
+
+Slide 9:
+ - Contact
+ - Alok Gupta — alok@example.com Aman Sharma — aman@example.com Project repo and demo available upon request
+
